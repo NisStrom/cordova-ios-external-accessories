@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="com.virtualmgr.iOSExternalAccessory" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="cordova-ios-external-accessories" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>iOSExternalAccessory</name>
 	<platform name="ios">
         <js-module name="iOSExternalAccessory" src="www/iOSExternalAccessory.js">
